@@ -1,0 +1,14 @@
+{
+  "name": "a",
+  "private": true,
+  "version": "0.0.0",
+  "main": "dist/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --project tsconfig.json --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
